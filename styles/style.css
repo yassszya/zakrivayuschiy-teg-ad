@@ -180,7 +180,7 @@
 .button-save {
   display: flex;
   justify-content: center;
-  background-color: white;
+  background-color: white; 
   align-items: center;
   gap: 8px;
   border: 2px solid black;
